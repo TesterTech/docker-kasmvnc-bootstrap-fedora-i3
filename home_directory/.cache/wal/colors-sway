@@ -1,0 +1,21 @@
+set $wallpaper /config/Pictures/Dunes.jpg
+
+set $background #151c24
+set $foreground #cfc6b8
+
+set $color0 #151c24
+set $color1 #505A67
+set $color2 #897862
+set $color3 #A48F6F
+set $color4 #BBA37A
+set $color5 #C3A87D
+set $color6 #677983
+set $color7 #cfc6b8
+set $color8 #908a80
+set $color9 #505A67
+set $color10 #897862
+set $color11 #A48F6F
+set $color12 #BBA37A
+set $color13 #C3A87D
+set $color14 #677983
+set $color15 #cfc6b8

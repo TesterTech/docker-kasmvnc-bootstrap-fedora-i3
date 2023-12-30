@@ -1,0 +1,24 @@
+wallpaper: "/config/Pictures/Dunes.jpg"
+
+special:
+    background: "#151c24"
+    foreground: "#cfc6b8"
+    cursor: "#cfc6b8"
+
+colors:
+    color0: "#151c24"
+    color1: "#505A67"
+    color2: "#897862"
+    color3: "#A48F6F"
+    color4: "#BBA37A"
+    color5: "#C3A87D"
+    color6: "#677983"
+    color7: "#cfc6b8"
+    color8: "#908a80"
+    color9: "#505A67"
+    color10: "#897862"
+    color11: "#A48F6F"
+    color12: "#BBA37A"
+    color13: "#C3A87D"
+    color14: "#677983"
+    color15: "#cfc6b8"

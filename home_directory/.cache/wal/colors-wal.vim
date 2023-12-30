@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/config/Pictures/Dunes.jpg"
+let background = "#151c24"
+let foreground = "#cfc6b8"
+let cursor     = "#cfc6b8"
+
+" Colors
+let color0  = "#151c24"
+let color1  = "#505A67"
+let color2  = "#897862"
+let color3  = "#A48F6F"
+let color4  = "#BBA37A"
+let color5  = "#C3A87D"
+let color6  = "#677983"
+let color7  = "#cfc6b8"
+let color8  = "#908a80"
+let color9  = "#505A67"
+let color10 = "#897862"
+let color11 = "#A48F6F"
+let color12 = "#BBA37A"
+let color13 = "#C3A87D"
+let color14 = "#677983"
+let color15 = "#cfc6b8"
