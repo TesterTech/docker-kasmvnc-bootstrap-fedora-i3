@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# docker build -t kasmvnc-custom:fedora39 .
+docker build -t kasmvnc-custom:fedora39 .
 
 docker build \
   --no-cache \
